@@ -1,6 +1,8 @@
 ---
 date: '2025-12-02T11:18:10+01:00'
 draft: true
-title: 'SomeThing'
+title: 'Docs'
+type: docs
+
 ---
-some other info
+Some markdown info
